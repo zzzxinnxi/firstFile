@@ -1,0 +1,6 @@
+//我的第一个项目文件
+public class firstFile{
+  public static void main(){
+    System.out.println("Hello GitHub!");
+  }
+}
